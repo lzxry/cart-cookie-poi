@@ -1,0 +1,90 @@
+.gsjj_w{
+    margin-top: 80px;
+    margin-bottom: 45px;
+    border-bottom: 2px solid #89b1e9;
+}
+.gsjj_w p{
+    color: #3a7dda;
+    padding: 20px 0;
+    font-size: 28px;
+    border-bottom: 4px solid #3a7dda;
+    width: 150px;
+    text-align: center;
+}
+.gsjj_content p {
+    text-indent: 50px;
+    margin-bottom: 50px;
+    font-size: 18px;
+    color: #464646;
+}
+.xlwm{
+    padding-left: 20px;
+}
+.xlwm_list b {
+    color: #464646;
+    font-size: 20px;
+    margin: 30px 0;
+    display: inline-block;
+}
+.xlwm_list p{
+    color: #727272;
+    font-size: 16px;
+    line-height: 2;
+}
+.xlwm_list img{
+    margin-top: 25px;
+    margin-bottom: 170px;
+}
+#payModal .modal-header{
+    background-color: #3a7dda;
+    color: #fff;
+}
+#payModal .modal-header .close{
+    color: #fff;
+    opacity: 1;
+    font-size: 30px;
+    margin-top: -5px;
+}
+#payModal  .modal-body{
+    padding: 35px;
+}
+#payModal  .modal-body p{
+    padding-bottom: 10px;
+}
+#payModal  .modal-body .safe_li{
+    padding-left: 20px;
+}
+#payModal  .modal-body .safe_li input,#payModal  .modal-body .safe_li select{
+    width: 200px;
+    margin-bottom: 10px;
+}
+#payModal  .modal-body .safe_li span{
+    vertical-align: top;
+}
+#payModal  .modal-body .shooter_radioW{
+    width: 20px;
+}
+#payModal  .modal-body .sl_t .safe_li,#payModal  .modal-body .sl_t p{
+    text-indent: 25px;
+}
+#payModal  .modal-body .sl_t{
+    margin-top: 20px;
+}
+#payModal  .modal-body  .border_sl{
+    border: 1px solid #d0cfcf;
+    border-radius: 3px;
+    padding: 20px;
+    margin: 20px 0;
+    width: 400px;
+}
+#payModal  .modal-footer{
+    border: none;
+    text-align: left;
+}
+#payModal  .modal-footer button{
+    margin-left: 10px;
+}
+/*#payModal  .modal-content{*/
+    /*border: 1px solid #dedede;*/
+    /*box-shadow: none;*/
+/*}*/

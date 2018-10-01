@@ -1,0 +1,25 @@
+spring:
+  mvc:
+    view:
+      prefix: /WEB-INF/view/
+      suffix: .jsp
+      #配置图片路径
+    static-path-pattern: /**
+        
+  datasource:
+    url: jdbc:mysql://localhost:3306/ssm
+    username: root
+    password: root
+    driver-class-name: com.mysql.jdbc.Driver
+    #配置图片路径
+  resources:
+    static-locations: file:${image.location}
+  servlet:
+    multipart:
+      max-file-size: 100Mb
+      max-request-size: 100Mb
+    #配置图片路径
+image:
+      location: F:/img/
+    #multipart.maxFileSize = 10Mb  
+    #multipart.maxRequestSize=100Mb  

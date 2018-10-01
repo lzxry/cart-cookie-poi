@@ -1,0 +1,16 @@
+/*专利商品详情样式*/
+.zli_box_new{
+	width: 740px;
+}
+.zli_box_new h1{
+	line-height: 60px;
+}
+.zli_box_xiangq p{
+	line-height: 24px;
+	color: #666;
+	text-indent: 2em;
+	margin-bottom: 15px;
+}
+.g-webadd{
+	color: #333;
+}

@@ -1,0 +1,50 @@
+.step_w{
+	background-color: #fff;
+	height: 50px;
+	cursor: pointer;
+}
+.step {
+	width: 700px;
+	margin: 0 auto;
+}
+.step_line {
+	width: 315px;
+	text-align: center;
+	height: 8px;
+	border-radius: 8px;
+}
+.step_numb{
+	width: 25px;
+	height: 25px;
+	color: #fff;
+	border-radius: 50%;
+	line-height: 25px;
+	text-align: center;
+	margin: -18px auto;
+}
+.step_txt{
+	text-align: center;
+	padding-top: 25px;
+	color: #3a7dda;
+}
+.step_list{
+	margin-right: -5px;
+}
+.step_list_act .step_line,.step_list_act .step_numb{
+	background-color: #3a7dda;
+}
+.step_list_grey .step_txt{
+	color: #3a7dda;
+}
+.step_list_grey .step_line,.step_list_grey .step_numb{
+	background-color: #cccccc;
+}
+.step_list_grey .step_txt{
+	color: #ccc;
+}
+.step_list_old .step_line,.step_list_old .step_numb{
+	background-color: #b0cbf0;
+}
+.step_list_old .step_txt{
+	color: #b0cbf0;
+}
